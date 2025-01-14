@@ -1,0 +1,11 @@
+Model Information:
+* title:	Transformers - Animated Soundwave Character Rig
+* source:	https://sketchfab.com/3d-models/transformers-animated-soundwave-character-rig-ab53d9182b0145d4bab6d02bd3761599
+* author:	Rejala (https://sketchfab.com/Rejala)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Transformers - Animated Soundwave Character Rig" (https://sketchfab.com/3d-models/transformers-animated-soundwave-character-rig-ab53d9182b0145d4bab6d02bd3761599) by Rejala (https://sketchfab.com/Rejala) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
