@@ -119,7 +119,7 @@ const experiences = [
   },
   {
     title: 'Microsoft Teams Manager',
-    company_name: 'ROST Alekseevka',
+    company_name: 'Energotechnika',
     date: 'Jun 2021 - Feb 2022',
   },
   {
@@ -129,7 +129,7 @@ const experiences = [
   },
   {
     title: 'Content creator',
-    company_name: 'Satrtup',
+    company_name: '"Iron Helmet The Game" Satrtup',
     date: 'Feb 2022 - Sep 2022',
   },
 ];
@@ -158,7 +158,7 @@ const projects = [
       },
     ],
     image: cms,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/mean-den/ecommerce-admin',
   },
   {
     name: 'Online Pizza',
