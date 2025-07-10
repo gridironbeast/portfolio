@@ -1,3 +1,4 @@
+Yes, it's my Portfolio, which was built on JS and Three.js framework. I wouldn't say I enjoed t, but it was quite interesting.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
